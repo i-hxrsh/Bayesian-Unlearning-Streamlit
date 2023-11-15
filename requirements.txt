@@ -1,5 +1,6 @@
 numpy
 matplotlib
+matplotlib.pyplot
 tensorflow
 scikit-learn
 pandas
